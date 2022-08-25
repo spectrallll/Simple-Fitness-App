@@ -1,2 +1,2 @@
-# Simple-Fitness-App / Карта ваших тренировок
-
+# Simple-Fitness-App
+  Карта ваших тренировок
